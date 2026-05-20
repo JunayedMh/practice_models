@@ -35,16 +35,16 @@ So roughly 70% of Netflix's library is movies. That was a bit surprising honestl
 
 The top 10 countries by content count were:
 
-1. United States — 2,818
-2. India — 972
-3. United Kingdom — 419
-4. Japan — 245
-5. South Korea — 199
-6. Canada — 181
-7. Spain — 145
-8. France — 124
-9. Mexico — 110
-10. Egypt — 106
+1. United States - 2,818
+2. India - 972
+3. United Kingdom - 419
+4. Japan - 245
+5. South Korea - 199
+6. Canada - 181
+7. Spain - 145
+8. France - 124
+9. Mexico - 110
+10. Egypt - 106
 
 The US dominates by a massive margin. India is a distant second but still very strong. South Korea showing up at number 5 makes sense given how popular K-dramas have become globally.
 
